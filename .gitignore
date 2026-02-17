@@ -1,0 +1,22 @@
+# Maven
+
+# Ignore Maven's build directory
+/target/
+
+# IDE
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Build exclusions
+*.jar
+*.war
+*.ear
+*.class
+*.log
