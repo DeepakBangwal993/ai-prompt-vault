@@ -1,0 +1,1 @@
+package com.promptvault.model; public enum PromptStatus { DRAFT, SUBMITTED, APPROVED, REJECTED, ARCHIVED }
